@@ -11,6 +11,7 @@ class Calculate {
 }
 const CalculateOpject = new Calculate();
 const calmultiply = new Calculate();
+
 console.log(Calculate.sum(1, 2));
 console.log(CalculateOpject.sum2(2, 3));
 console.log(calmultiply.multiply(10, 20));
